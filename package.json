@@ -17,7 +17,6 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "wileys": "latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-        "@rodrigogs/baileys-store": "^1.0.1",
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^8.0.0",
     "aptoide-scraper": "^1.0.1",
